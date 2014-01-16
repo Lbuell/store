@@ -9,3 +9,6 @@ By [Liam Buell](http://www.liambuell.com).
 
 ## Description
 **Rails App** This is a very basic but functional product app using Foundation
+
+**Based on Railscast #417.**
+	 
